@@ -1,16 +1,5 @@
 [  
-  {
-    "Utc Device Ts": "2021-01-10T05:39:07Z",
-    "BatteryV": 2.3801824,
-    "odometer": 1240.048,
-    "Speed": 0
-  },
-  {
-    "Utc Device Ts": "2021-01-10T05:39:08Z",
-    "BatteryV": 2.4902976,
-    "odometer": 1240.048,
-    "Speed": 0
-  },
+  
   {
     "Utc Device Ts": "2021-01-10T05:39:10Z",
     "BatteryV": 2.562296,
